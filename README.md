@@ -2,7 +2,7 @@
 
 Meu nome é Igor Bueno
 
-- Estou Estudando na Alura
+- Estou Estudando na [Alura](https://www.alura.com.br/?srsltid=AfmBOoqYdDCOf99EyTCS72rPg0vL7kLH4SMGS68E3WtqP7xwoL6_ODj3)
 - Estou me desenvolvendo em linguem JavaScrisp
 - Utilizo este espaço para compartilhar meus projetos
 
@@ -11,5 +11,5 @@ Meu nome é Igor Bueno
   PF3Igaum@gmail.com
 
   @naotenhoconta
-  ![](https://tenor.com/pt-BR/view/one-piece-pixel-pixelart-fan-made-fanart-gif-8278032294120755915)
+  ![](https://media.tenor.com/cuF6gzpHkssAAAAi/one-piece-pixel.gif)
 
